@@ -1,15 +1,15 @@
+Resource Name: Crew Phone v1
+Function: Mumble-voip
+Photos: https://i.imgur.com/40m5HGW.png
+Edited by: Д̷и̷в̷а̷к̷а™#7777
+
+# EDIT: After testing the phone, everything works. You have to adjust yourself for the photos, you will not help! The phone works without problems, errors, etc. Application for use: yes: 
+
+
 # screenshot-basic for FiveM
-
-## Description
-
-screenshot-basic is a basic resource for making screenshots of clients' game render targets using FiveM. It uses the same backing
-WebGL/OpenGL ES calls as used by the `application/x-cfx-game-view` plugin (see the code in [citizenfx/fivem](https://github.com/citizenfx/fivem/blob/b0a7cda1007dc53d2ba0f638c035c0a5d1402796/data/client/bin/d3d_rendering.cc#L248)),
-and wraps these calls using Three.js to 'simplify' WebGL initialization and copying to a buffer from asynchronous NUI.
 
 ## Usage
 
-1. Make sure your [cfx-server-data](https://github.com/citizenfx/cfx-server-data) is updated as of 2019-01-15 or later. You can easily
-   update it by running `git pull` in your local clone directory.
 2. Install `screenshot-basic`:
    ```
    mkdir -p 'resources/[local]/'
@@ -89,3 +89,8 @@ exports['screenshot-basic']:requestClientScreenshot(GetPlayers()[1], {
     print('data', data)
 end)
 ```
+
+# [Additional Information]
+The resource will not be supported, but can be considered for others like it or contact me here [https://discord.gg/xS6A2D5JWG](https://discord.gg/xS6A2D5JWG)
+
+There are more plugins available which you can view at [https://github.com/Creative-Leaks](https://github.com/Creative-Leaks).
