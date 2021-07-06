@@ -13,13 +13,13 @@ EDIT: After testing the phone, everything works. You have to adjust yourself for
 
 ## Usage
 
-2. Install `screenshot-basic`:
+1. Install `screenshot-basic`:
    ```
    mkdir -p 'resources/[local]/'
    cd 'resources/[local]'
    git clone https://github.com/citizenfx/screenshot-basic.git screenshot-basic
    ```
-3. Make/use a resource that uses it. Currently, there are no directly-usable commands, it is only usable through exports.
+2. Make/use a resource that uses it. Currently, there are no directly-usable commands, it is only usable through exports.
 
 ## API
 
