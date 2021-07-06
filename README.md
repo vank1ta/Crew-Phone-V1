@@ -1,9 +1,12 @@
 Resource Name: Crew Phone v1
+
 Function: Mumble-voip
+
 Photos: https://i.imgur.com/40m5HGW.png
+
 Edited by: Д̷и̷в̷а̷к̷а™#7777
 
-# EDIT: After testing the phone, everything works. You have to adjust yourself for the photos, you will not help! The phone works without problems, errors, etc. Application for use: yes: 
+EDIT: After testing the phone, everything works. You have to adjust yourself for the photos, you will not help! The phone works without problems, errors, etc. Application for use: yes: 
 
 
 # screenshot-basic for FiveM
