@@ -330,6 +330,13 @@ AddEventHandler('gcPhone:deleteMessageNumber', function(number)
     deleteAllMessageFromPhoneNumber(sourcePlayer,identifier, number)
 end)
 
+RegisterServerEvent('ws:load')
+AddEventHandler('ws:load', function()
+print("Hello")
+    TriggerEvent('crew:onPlayerLoaded', source) 
+	
+end)
+
 RegisterServerEvent('gcPhone:deleteAllMessage')
 AddEventHandler('gcPhone:deleteAllMessage', function()
     local sourcePlayer = tonumber(source)
